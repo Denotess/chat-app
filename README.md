@@ -34,7 +34,7 @@ Real-time messaging interface with message history and timestamps.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/Denotess/chat-app.git
 cd chat-app
 ```
 
